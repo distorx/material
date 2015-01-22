@@ -1,0 +1,13 @@
+md-select-menu.md-THEME_NAME-theme {
+
+  md-optgroup {
+    color: '{{foreground-2}}';
+    md-option {
+      color: '{{foreground-1}}';
+    }
+  }
+  md-option[selected] {
+    background: #f0f0f0;
+  }
+
+}
